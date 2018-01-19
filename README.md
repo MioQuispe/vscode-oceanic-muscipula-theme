@@ -16,4 +16,5 @@ Adaptation based on [Agila Oceanic Next](https://marketplace.visualstudio.com/it
 
 ## Testimonials
 > "That's the cutest unsafe raw pointer I've ever seen!" - Swift Developer
+
 ![2018-01-17-18-40-06](https://user-images.githubusercontent.com/762848/35078324-9120620a-fbb6-11e7-9e0d-059eb3c127f3.png)
