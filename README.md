@@ -3,7 +3,7 @@ Adaptation based on [Agila Oceanic Next](https://marketplace.visualstudio.com/it
 * workbench theming
 * italics
 
-![2018-01-17-18-30-55](https://user-images.githubusercontent.com/762848/35078323-9103c596-fbb6-11e7-9d37-02dc93da78d5.png)
+![image](https://user-images.githubusercontent.com/762848/35146117-e359537a-fcbe-11e7-832d-bf9a6cc727d8.png)
 
 ## Recommended font
 * [Operator Mono](https://www.typography.com/blog/introducing-operator): It's $200. Ask me in a couple months if it's worth it 😉. I use the ScreenSmart version. There is also a [free alternative](https://medium.com/@docodemore/an-alternative-to-operator-mono-font-6e5d040e1c7e).
