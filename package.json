@@ -2,7 +2,7 @@
     "name": "theme-oceanic-muscipula",
     "displayName": "Oceanic Muscipula Theme",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "mousetraps",
     "engines": {
         "vscode": "^1.19.0"
