@@ -1,0 +1,22 @@
+{
+    "name": "theme-oceanic-muscipula",
+    "displayName": "Oceanic Muscipula Theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "mousetraps",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Oceanic Muscipula",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Oceanic Muscipula-color-theme.json"
+            }
+        ]
+    }
+}
